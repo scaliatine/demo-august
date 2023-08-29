@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  margin-bottom: 5rem;
+}
+
+.navitems {
+    background-color: lightgray;
+    display: inline-block;
+    padding: 1rem 10%;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sidebar {
+    width: 29%;
+    height: 100vh;
+    float: left;
+}
+
+.maincontent {
+    width: 65%;
+    height: 100vh;
+    float: right;
+    padding-right: 5%;
+    line-height: 140%;
+}
+
+.profile {
+ text-align: center;
+ margin-top: 2rem;
+}
+
+.profilephoto {
+    width: 60%;
+}
+
+.stats {
+
+}
+
+li { 
+    margin-bottom: 1rem;
+    list-style-type: none; /* Remove bullets */
+}
+
+ul {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 10%;
+}
+
+.bold {
+    font-weight: 800;
+}
+
+.introphoto {
+    float: left;
+    margin-right: 2%;
+}
+
+.photogallery {
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.photospotlight {
+    display: inline-block;
+}
+
